@@ -13,4 +13,9 @@ class UserController extends AbstractActionController
     {
         return new ViewModel();
     }
+
+    public function createAction()
+    {
+        //
+    }
 }
