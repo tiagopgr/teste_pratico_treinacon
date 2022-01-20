@@ -20,7 +20,6 @@ return [
     'Laminas\Filter',
     'Laminas\Hydrator',
     'Laminas\Di',
-    'Laminas\Db',
     'Laminas\Cache',
     'Laminas\Router',
     'Laminas\Validator',
